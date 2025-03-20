@@ -1,4 +1,4 @@
-# QTChatbot_Ollama_DS
+# TKChatbot_Ollama_DS
 
 ## 简介
 ### 本项目为使用tkinter为GUI，通过ollama调用ds-r1的基础项目
