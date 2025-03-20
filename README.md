@@ -7,3 +7,7 @@
 ```
 run.sh
 ```
+## 环境配置
+```
+pip install -r requirements.txt
+```
